@@ -1,1 +1,1 @@
-web: python Control.py
+web: python Control.py runserver 0.0.0.0:5000
